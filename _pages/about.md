@@ -15,7 +15,7 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 My passion lies in solving complex problems at the intersection of `Computer Vision`, `Machine Learning` and `Robotics`. I thrive on crafting innovative solutions towards embodied and intelligent systems and robots.
@@ -26,6 +26,4 @@ Previously, I pursued my summer internship as a Robotic Perception Intern at the
 
 
 During my undergraduate study, I was a part of the [Spider R&D Club](https://spider.nitt.edu/projects) as a Machine Learning Researcher. My role involved contributing to interdisciplinary projects, organizing knowledge-sharing sessions and mentoring juniors.
-
-Feel free to reach out and connect; I'm always open to discussions and collaborations!
 
