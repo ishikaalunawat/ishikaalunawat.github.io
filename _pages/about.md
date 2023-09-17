@@ -18,7 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-My passion lies in solving complex problems at the intersection of `Computer Vision, Machine Learning, and Robotics`. I thrive on crafting innovative solutions towards building embodied and intelligent robots.
+My passion lies in solving complex problems at the intersection of `Computer Vision`,`Machine Learning`, and `Robotics`. I thrive on crafting innovative solutions towards embodied and intelligent systems and robots.
 
 Currently, I'm a master's student in Electrical Engineering at Stanford University, in the *Information Systems and Science* track. I completed my undergraduate degree in Electrical and Electronics Engineering at the National Institute of Technology Tiruchirappalli, India.
 
