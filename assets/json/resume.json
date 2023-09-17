@@ -43,8 +43,8 @@
     {
       "institution": "National Institute of Technology, Tiruchirappalli",
       "url": "https://www.nitt.edu/",
-      "area": "Electrical Engineering",
-      "studyType": "Master of Science",
+      "area": "Electrical and Electronics Engineering",
+      "studyType": "Bachelor of Technology",
       "startDate": "2019",
       "endDate": "2023",
       "score": "",
@@ -57,23 +57,34 @@
   ],
   "experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "Omnyk Inc.",
+      "position": "Machine Learning Intern",
+      "url": "https://www.omnyk.com/",
+      "startDate": "August 2022",
+      "endDate": "March 2023",
+      "summary": "Implemented squeeze-and-excite blocks and achieved 73% accuracy on sleep-stage classification using interbeat intervaldata for human heart score prediction. Performed sleep quality analysis for 10+ patients and created heart health reports with visualizations for patientsdiagnosed with cardiovascular problems"
     }
   ],
-  "awards": [
+  "awards and competitions": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Shri Muthukarappan Alumni Award for Department rank 2",
+      "date": "2023",
+      "awarder": "National Institute of Technology, Tiruchirappalli"
+    },
+    {
+      "title": "DAAD-WISE Scholarship",
+      "date": "2022",
+      "awarder": "German Academic Exchange Service"
+    },
+    {
+      "title": "MITACS Globalink Research Scholarship",
+      "date": "2022",
+      "awarder": "MITACS."
+    },
+    {
+      "title": "Runner's Up in Healthcare domain",
+      "date": "2021",
+      "awarder": "Sangam Hardware Hackathon 2021"
     }
   ],
   "certificates": [],
@@ -81,13 +92,17 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
       "language": "English",
       "fluency": "Fluent"
-    }
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"}
+
   ],
   "interests": [],
   "references": [],
