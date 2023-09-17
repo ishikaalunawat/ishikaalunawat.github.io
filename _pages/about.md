@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Master's student in Electrical Engineering at <a href="https://profiles.stanford.edu/ishikaa-lunawat">Stanford University</a>
 
@@ -18,7 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-My passion lies in solving complex problems at the intersection of `Computer Vision`,`Machine Learning`, and `Robotics`. I thrive on crafting innovative solutions towards embodied and intelligent systems and robots.
+My passion lies in solving complex problems at the intersection of `Computer Vision`, `Machine Learning` and `Robotics`. I thrive on crafting innovative solutions towards embodied and intelligent systems and robots.
 
 Currently, I'm a master's student in Electrical Engineering at Stanford University, in the *Information Systems and Science* track. I completed my undergraduate degree in Electrical and Electronics Engineering at the National Institute of Technology Tiruchirappalli, India.
 
@@ -29,4 +29,3 @@ During my undergraduate study, I was a part of the [Spider R&D Club](https://spi
 
 Feel free to reach out and connect; I'm always open to discussions and collaborations!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
