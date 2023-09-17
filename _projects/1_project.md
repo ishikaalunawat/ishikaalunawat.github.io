@@ -5,9 +5,9 @@ description: Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neu
 img: assets/img/publication_preview/Neu.png
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: neugraspnet
 ---
-
+Presented at **[CVPR 2023 Workshop on 3D Vision and Robotics](https://sites.google.com/view/cvpr2023-3d-vision-robotics).** *(Accepted Paper Spotlight Talks)*
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/publication_preview/pipeline_SJ-1.png" title="example image" class="img-fluid rounded z-depth-1" %}

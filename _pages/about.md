@@ -25,5 +25,5 @@ Currently, I'm a master's student in Electrical Engineering at Stanford Universi
 Previously, I pursued my summer internship as a Robotic Perception Intern at the [iROSA group](https://irosalab.com/) (Intelligent Autonomous Systems Lab) at Technische Universität Darmstadt, Germany. My work revolved around a vision model that learns a generalizable 3D scene representation for 6DoF grasping. I also worked on real-time sleep staging using Interbeat Interval (IBI) of Heart in collaboration with [Omynk Inc., USA](https://www.omnyk.com/) as a part of my bachelor's thesis. Additionally, I conducted research at the [Pattern Recognition Laboratory](https://www.iitbhu.ac.in/dept/cse/labs#sec9) in IIT-BHU as a Computer Vision Intern on gait recognition and developed novel 3D Convolution models to tackle issues with occluded frames. 
 
 
-During my undergraduate study, I was a part of the [Spider R&D Club](https://spider.nitt.edu/projects) as a Machine Learning Researcher. My role involved contributing to interdisciplinary projects, organizing knowledge-sharing sessions and mentoring juniors.
+During my undergraduate study, I was a part of the [Spider R&D Club](https://spider.nitt.edu/) as a Machine Learning Researcher. My role involved contributing to interdisciplinary projects, organizing knowledge-sharing sessions and mentoring juniors.
 
